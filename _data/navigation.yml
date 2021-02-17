@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-      url: /portfolio/
+    url: /markdown/
 
   - title: "Publications"
     url: /publications/
@@ -10,12 +10,12 @@ main:
     url: /teaching/
 
   - title: "Machines that Make Machines"
-    url: /portofolio/
+    url: /markdown/
 
   - title: "CV"
     url: /cv/
 
   - title: "Lab Notebook"
-    url: /cv/
+    url: /markdown/
     
 
