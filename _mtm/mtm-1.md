@@ -7,6 +7,8 @@ collection: mtm
 
 ![](/images/droplet-generator-1.jpg)
 
+![](/images/dropplet-generator-sim.gif)
+
 ### with J55:
 
 ![](/images/droplet-generator-base-clear.jpg)
