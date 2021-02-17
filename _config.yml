@@ -184,6 +184,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  mtm:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
