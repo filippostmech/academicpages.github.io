@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Machines that Make Machines"
-    url: /markdown/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Machines that Make Machines"
+    url: /markdown/
 
   - title: "Lab Notebook"
     url: /markdown/
