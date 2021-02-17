@@ -10,7 +10,7 @@ redirect_from:
 
 #whoAmI
 ------
-Hi, I'm Filippos and thank you very much for landing in my personal webpage.
+Hi, I'm Filippos and thank you very much for landing in my personal webpage!
 I'm a scientist/engineer with a passion about creating data-driven biomaterials science and 
 engineering platforms that aim to overcome scientific challenges with direct societal impact.
 
