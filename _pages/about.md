@@ -14,21 +14,6 @@ Hi, I'm Filippos and thank you very much for landing in my personal webpage!
 I'm a scientist/engineer with a passion about creating data-driven biomaterials science and 
 engineering platforms that aim to overcome scientific challenges with direct societal impact.
 
-Questions that boggle my mind are:
-
-- Can we engineer cell material systems that can guide biological function purely by geometrical cues? 
-
-- How can we automate the whole biofabrication paradigm?
-
-- Can we extend the lifecycle of recyclable plastics through the design of material-robot systems? 
-
-- How will the materials' lab of the future look like?
-  
-- How can we enable the masses to produce their own materials?
-
-Surprisingly, all these disparate questions can be answered and tackled by anyone who can freely 
-move between design, fabrication and computing.
-
 #whatDoIDo
 ------
 Currently, I'm a PostDoc Associate at CBA under the supervision of Prof. Neil Gershenfeld. 
